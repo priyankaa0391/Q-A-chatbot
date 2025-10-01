@@ -12,9 +12,13 @@ from openai import OpenAI
 st.set_page_config(page_title="Financial Sustainability Toolkit Bot")
 st.title("💬 Financial Sustainability Toolkit Q&A")
 
-api_key = st.text_input("Enter your OpenAI API Key:", type="password")
+api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
+    st.error("API key not found. Please add it in Streamlit Secrets.")
     st.stop()
+
+client = OpenAI(api_key=api_key)
+
 
 client = OpenAI(api_key=api_key)
 
