@@ -29,7 +29,7 @@ client = OpenAI(api_key=api_key)
 # ---------------------
 # Intro / About Section
 # ---------------------
-st.title("Growing Sustainably Toolkit Chatbot")
+st.title("Growing sustainably toolkit chatbot")
 
 st.markdown("""
 👋 This chatbot is designed to help you navigate the [Growing Sustainably Toolkit](https://globalschoolsforum.org/sites/default/files/2025-08/financial_sustainability_toolkit.pdf).  
