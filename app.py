@@ -35,14 +35,13 @@ st.markdown("""
 👋 This chatbot is designed to help you navigate the [Growing Sustainably Toolkit](https://globalschoolsforum.org/sites/default/files/2025-08/financial_sustainability_toolkit.pdf).  
 
 The toolkit is a practical guide for strengthening the financial sustainability of early childhood and childcare centres in emergency and low-resource contexts. It offers templates, case studies, and strategies on revenue generation, financial planning, and cost management — tailored for both finance staff and programme managers.  
-""")
 
-Get started! You can ask me things like:  
-- “How do I get started with the toolkit?”  
-- “What strategies can centres use to diversify revenue?”  
-- “How do I use the income statement template to plan for the next year?”  
-- “Which sections are most relevant for programme managers vs finance staff?”  
-- “Can you summarise the strategies used by aeioTU for improved financial planning?”  
+You can ask me things like:  
+- "How do I get started with the toolkit?"  
+- "What strategies can centres use to diversify revenue?"  
+- "How do I use the income statement template to plan for the next year?"  
+- "Which sections are most relevant for programme managers vs finance staff?"  
+- "Can you summarise the strategies used by aeioTU for improved financial planning?"  
 """)
 
 # ---------------------
