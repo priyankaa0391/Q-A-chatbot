@@ -37,8 +37,6 @@ st.markdown("""
 The toolkit is a practical guide for strengthening the financial sustainability of early childhood and childcare centres in emergency and low-resource contexts. It offers templates, case studies, and strategies on revenue generation, financial planning, and cost management — tailored for both finance staff and programme managers.  
 """)
 
-with st.chat_message("assistant"):
-    st.markdown("""
 Get started! You can ask me things like:  
 - “How do I get started with the toolkit?”  
 - “What strategies can centres use to diversify revenue?”  
