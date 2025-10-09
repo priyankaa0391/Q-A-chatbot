@@ -32,7 +32,7 @@ client = OpenAI(api_key=api_key)
 st.title("Growing sustainably toolkit chatbot")
 
 st.markdown("""
-👋 This chatbot is designed to help you navigate the [Growing Sustainably Toolkit](https://globalschoolsforum.org/sites/default/files/2025-08/financial_sustainability_toolkit.pdf).  
+👋 This chatbot is designed to help you navigate the Growing Sustainably Toolkit.  
 
 The toolkit is a practical guide for strengthening the financial sustainability of early childhood and childcare centres in emergency and low-resource contexts. It offers templates, case studies, and strategies on revenue generation, financial planning, and cost management — tailored for both finance staff and programme managers.  
 
